@@ -10,8 +10,8 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: #0d1117;
-  stroke: #0d1117;
-  stroke-width: 0.5px;
+  stroke: #30363d;
+  stroke-width: 1px;
   rx: 6px;
   ry: 6px;
 }
